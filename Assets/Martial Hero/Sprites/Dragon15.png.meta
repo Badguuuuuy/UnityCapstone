@@ -1,0 +1,3188 @@
+fileFormatVersion: 2
+guid: 50831b4d500246144ab867ae2eb011ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon15_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4597f12b71491fa4cbd1ff91f5550fd0
+      internalID: -1685666224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790657113c9d09145838a91aebb0395c
+      internalID: 401456087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf9540a21b0b4142afc97e605b0101d
+      internalID: 450153275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64cb5ba18d9f9b4494871d42a6d1cad
+      internalID: 1592308043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5f0975ef47274c9649a532877a4b4
+      internalID: 58736717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e7cc7dfb5b1744908c95cc03ba78a
+      internalID: -115617537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_6
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7d26d1b7011143840ec8cf1321dc6
+      internalID: 1652054302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b836831277f70d4bb60632755067040
+      internalID: 1789423598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47853e8bb383094a9da5e3b9b52cf1f
+      internalID: 1600973001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_9
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9234fcacc0a2e78469eaab4c81d57ac7
+      internalID: -1587241169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_10
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0825a1000eeb419277248db30f593
+      internalID: 989987457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ed8c7210108441ab77ef006407813
+      internalID: 433740258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_12
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3708
+        width: 120
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce15e80bc85fcf4fa982a719b18a8be
+      internalID: 365696176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3488
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1161717870ea4eaaa72deba6167ab
+      internalID: -1576654352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3488
+        width: 120
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09526b1dd19074aaaa65a1561aa83a
+      internalID: 1405046085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3488
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f54c0e71f24464a8983b2e8edf74a5
+      internalID: 1077644266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3488
+        width: 120
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25166492b9cb15b4287760f546bfa317
+      internalID: 1752672023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3488
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51a55fd95978c48856bf2d8f34ce5f
+      internalID: 1950110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3488
+        width: 120
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3a5795c490764bb325378370524a9
+      internalID: -716639316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3488
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de382d57fc710e4984604ad3bc7e14c
+      internalID: -1784432300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_20
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3488
+        width: 120
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f676bab1cfbd3e4d89778b6864f5315
+      internalID: -58445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3272
+        width: 120
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86303ee07d74f0c4498cc48fa52a297d
+      internalID: -941726335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3272
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa451e48af6ab584ca22ef5158bee15f
+      internalID: 46653136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_23
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3272
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ecdc8d49dc4a499c929de960d8259
+      internalID: -1354729064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_24
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3272
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254527853bb00b48921e6a249a29019
+      internalID: 1539588560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3272
+        width: 124
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a5f3588ed0634ba958f6bd371ee9b
+      internalID: 1726936004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_26
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 3272
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff82a3e44434b439b494435c0d2dbc
+      internalID: -1055569287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3064
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d850da5e40d7429d3fa13d3ab2756
+      internalID: -1047460650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3064
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb806792b9576a4db52faf9df3718bd
+      internalID: -1625086808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3064
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f489c432a727049ab9904df9968102
+      internalID: -1463369419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3064
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900516fc8538adf44aa405368caf6254
+      internalID: -1125900991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3064
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8c07f007e3ae64a82f326052d649b8
+      internalID: -2069363330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3064
+        width: 108
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbecac8c42e64d741beec55ed7d819b6
+      internalID: -1889089512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_33
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3064
+        width: 104
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3977feaca4314428386521eb57dbcd
+      internalID: -1488757946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3064
+        width: 84
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f30cd53f4e68438aad5f46deee591
+      internalID: -1070099668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_35
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3064
+        width: 108
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5d52429106bd4eaf622426123868e
+      internalID: -2052257323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_36
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3064
+        width: 120
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728557f1cd792a546a64fe8335da7d0d
+      internalID: 69959274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2832
+        width: 128
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5703125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8454ab7456af30a4c81a7b27c8b55010
+      internalID: -1651312339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2832
+        width: 128
+        height: 152
+      alignment: 9
+      pivot: {x: 0.578125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5df441ff128fbb4bbdcc2619616124c
+      internalID: -1762460285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2832
+        width: 128
+        height: 156
+      alignment: 9
+      pivot: {x: 0.578125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e97a7d6fea70143aa21d7d10ef21b4
+      internalID: 1623464019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.578125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0389595b6dbb034883ff570c0ffeac8
+      internalID: -1833657460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.546875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590226632a922fe4ba3206be0cb1d8ea
+      internalID: 760717004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_42
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b5dffd94a5054dbbd1338eccb7573
+      internalID: -1347495882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_43
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.453125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e64a82fa4409408b15500fb1dc60c
+      internalID: -1161377932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_44
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2832
+        width: 128
+        height: 156
+      alignment: 9
+      pivot: {x: 0.45703125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c054fd9ad82fc449f3e66320dbda58
+      internalID: 1416770266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_45
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.45703125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29562f08dfb01184cb8e5384cef0fdc8
+      internalID: 1286722503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_46
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.44921875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d910f11eba6324488aa87543764bca5
+      internalID: -1008446088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_47
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2832
+        width: 128
+        height: 160
+      alignment: 9
+      pivot: {x: 0.484375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb0c76a9c04b1488d866989327165f
+      internalID: -567230962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_48
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2832
+        width: 128
+        height: 156
+      alignment: 9
+      pivot: {x: 0.51171875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a7790f85d0a16419cb00513d327776
+      internalID: 1987133150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2636
+        width: 132
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb48836b557c6f48a0b379871eb8514
+      internalID: 275581125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2636
+        width: 156
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe3d124eb6caef4ab02a73dafc82da0
+      internalID: -535499290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_51
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2636
+        width: 156
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e26ceb04b50d4aa439a4b13dcdd9e
+      internalID: 2128774042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2660
+        width: 164
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8174c22040d2845aaa02520aeef719
+      internalID: 2056316455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2636
+        width: 176
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d67b3cdef0f44b88dafecf1edc344
+      internalID: 1401484631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_54
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2636
+        width: 176
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac1cb9515bfb04e958e386bc2091aa
+      internalID: 1502972056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_55
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2636
+        width: 152
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30801cb517f95d7408a7b4ad60fc6392
+      internalID: -176896320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_56
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2636
+        width: 152
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f146e8379ff41c488a4d5c5ca7ae780
+      internalID: -1135644658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_57
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2660
+        width: 160
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c44bf537817ea1488e4c7cb9806515a
+      internalID: -538270005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_58
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2636
+        width: 148
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a342ee2d714b08143b3b7402faf3ed6d
+      internalID: 1454374597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2464
+        width: 148
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef1736de11c3e4ca52f1029108ba03
+      internalID: 81291341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2468
+        width: 200
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadfb9d92febad643b16b8c0be2cead5
+      internalID: 258334775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_61
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2464
+        width: 168
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea33a2bd0162c429c985b20e8a22e4
+      internalID: 579160671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_62
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2464
+        width: 136
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6028d2e09a2964194624a677acfdb6
+      internalID: -2101105343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_63
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2464
+        width: 176
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b752ab73aec07649a15111368aa259c
+      internalID: 1045292810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_64
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2464
+        width: 164
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d65225e9cfb34792d2c4ab559d940
+      internalID: -1724588250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_65
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2464
+        width: 136
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a846855fba81846be914430040344a
+      internalID: 170561978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2264
+        width: 200
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32599cef82b2ada468a9c871ae61686f
+      internalID: 2030116619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2260
+        width: 168
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e7c6b00773214ab829c4c1f14e2e9
+      internalID: 1063597076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_68
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2248
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b16d9e6a80d9845af8d66416a4cc4c
+      internalID: 189249312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_69
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2220
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78207034aacfcdf479a09778a8d89633
+      internalID: -240718168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_70
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2272
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108e1d3d9dea794e8106b48fdbd5bd2
+      internalID: -1896809849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_71
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2252
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b5d2bf45adae48ae06ee15e568388
+      internalID: -651654513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_72
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2248
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdb4110cf981541a74fd8c50594bcd
+      internalID: 1091899630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_73
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2276
+        width: 188
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb18b9a909f60f49bc9810df1cbdd9b
+      internalID: -882318969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_74
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2240
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73624464c8f935f41aeeca421d8b341e
+      internalID: 810628899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_75
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2232
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33f3c5e06b0d147a5368d7fcae2c05
+      internalID: -156141862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2024
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f277d2dae26dcc41a66dfa848b6f4cb
+      internalID: 1412015635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_77
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2028
+        width: 100
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f178095c5e6649a2008925aa12829
+      internalID: 1281941076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1808
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec83954d0cd50f41805bd4a2aa960c0
+      internalID: 1534041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1808
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d03334ede61a45bf0777d66770b13
+      internalID: -897917717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_80
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1808
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524f3df4395fb5499ccb4bcb0a3b28e
+      internalID: -1848408375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_81
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1808
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00983b2baa267240b47ad22f6e2272f
+      internalID: -1254146470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1620
+        width: 164
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b6e788d909d704ea2fdb7b62309642
+      internalID: -1027781605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1620
+        width: 168
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac3a343c42f7a43ac868b3e0a120dc
+      internalID: 252631094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1620
+        width: 156
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f1518c4985aa468e430bdb6849284
+      internalID: -657372532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_85
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1620
+        width: 156
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27a08d2b8250746a4095359830125f
+      internalID: 1566315468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_86
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1620
+        width: 164
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b283d60733932ec4e86a94d4b29e3009
+      internalID: 128873681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_87
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1620
+        width: 164
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ee2b028d26264781d8f1a6d7fb72f
+      internalID: -1332906872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_88
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1620
+        width: 336
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b96e9b6a4b9040bf09c20ac01e9e5
+      internalID: -165495709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_89
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1620
+        width: 168
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102abc01354e87b4c9f21c97b1ee6137
+      internalID: 1229809673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_90
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1620
+        width: 160
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f4ee4b99a7a342af0b76973a7976a
+      internalID: -2121900158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1428
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01524071d29d87e43b3116953e1e56d0
+      internalID: 1542948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_92
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1428
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d78be46ed1c6d49a73e14c1bd4df36
+      internalID: 1767027938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_93
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1428
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6de10ebfe77524f97e7b7eab27d48d
+      internalID: 1960566541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_141
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1200
+        width: 128
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4a31a2b943b84ab7d3ba1a45e243a
+      internalID: 1545966831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_143
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1200
+        width: 128
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc05daa62b097e4e81f3aecbb06517b
+      internalID: 1601177216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1200
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2bb1fadbcc954d96ea64cff4abb07
+      internalID: 1872018460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1200
+        width: 144
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533a5c2a9180ce344b43cd6588a7a84f
+      internalID: 1946352644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_98
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1200
+        width: 144
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274bc3835478bb478f74edf09a37843
+      internalID: -166245830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_99
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1200
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742934392adaf3449d49899ffac27d2
+      internalID: -571475019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_100
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 996
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305cee56070d38f498bafb73bcfe7d15
+      internalID: -218111823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_101
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 996
+        width: 176
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c48e5cafe6424f4c8203ea5415d51b1
+      internalID: 1984262265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_102
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 996
+        width: 120
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9822f4b18dc340a536d01bcbc3dec
+      internalID: 1987654569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_103
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 996
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19a36fbdc3fef4f845e617ddeefeab
+      internalID: 1390819184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_104
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 996
+        width: 200
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883fe3136bb1654f86171a3bcdf83f8
+      internalID: -676582009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_105
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 996
+        width: 200
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0d0a9db8e2d54495e4484aa66c2f7
+      internalID: -1566165158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 736
+        width: 164
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d78c7e6e477543bac4b7b3a9e0494
+      internalID: -734772399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_107
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 738
+        width: 232
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028e6251005f2446b38894f98e09b1a
+      internalID: -1940708899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 740
+        width: 188
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12483ba3258f1640af97c14c8b10f7a
+      internalID: 559962502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_109
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 740
+        width: 188
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec107b44318a0c4c9b57d022be226b9
+      internalID: -465288728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_110
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 740
+        width: 188
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a91b5dab6c8264c8509e2ef2496829
+      internalID: -723173066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_111
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 740
+        width: 188
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34dee450e736f4ca5e09a8128d750a
+      internalID: 1069749971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_112
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 568
+        width: 340
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3743650d9f797c42af4859ea9546ab2
+      internalID: 321257314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_113
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 560
+        width: 192
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24e8358969c674b89a8afe8b4b8d15
+      internalID: 2088539088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_117
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 352
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34104f0e2269ee94a86697ba6346be9a
+      internalID: 1006575161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_118
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 380
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e941f0a8460854b9d0def143c9f5b3
+      internalID: 728005037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_119
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 376
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece5c9bf3e2b6242bf9e4ce0d2575a3
+      internalID: -2007452685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_120
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 376
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3532e1926eee6f1468df4cc5c57acc8e
+      internalID: 961309571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_121
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 376
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba327eef02ca04f881cd314b2dc51d
+      internalID: 138339822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_122
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 376
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f1f6e731f51d342b64ba32e34a0081
+      internalID: 902852271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_123
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 376
+        width: 160
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d6084f9a4b3a47a6023e6d76e1d02
+      internalID: -892616301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_124
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 376
+        width: 260
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db8bd4b1589b143bdc0ddd53c63262
+      internalID: -1435800079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_125
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 376
+        width: 228
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619dfa69d13a0fd43b4c4564848a14cb
+      internalID: -1809169588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_126
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 376
+        width: 220
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e59b5900262a4d45bd2133843312bbe
+      internalID: -395520433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_127
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 376
+        width: 224
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e53c9273b25649b981ee2e16b9038
+      internalID: 1692516628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_128
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 376
+        width: 220
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91be3a13633d9624bb7ca225be7aece5
+      internalID: -679259241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2d682d0878aec4dae6d2973a4bd533
+      internalID: -519201395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91410639dd7c85f409b2ea26058c8c85
+      internalID: 1510706648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 180
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca6dc42900eab40b5970cc186cf61e
+      internalID: 1074152778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_132
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 172
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b496fcb87c374882eac4c32e6c866
+      internalID: -1215041611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_133
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 172
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9e588ce7d92f489a57ebbeab61836
+      internalID: -791977224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_134
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 184
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e38b2ca9b208a44a7697718fa307ea
+      internalID: 977391747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_135
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 192
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eff5b21ab12834d9d60774d8f56568
+      internalID: 1840297774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_136
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 184
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24af43dd7b76b429cb46111a07321f
+      internalID: 2147033361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_137
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 172
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3117ff89edb7fe4cb4a27f8ef1cd36d
+      internalID: 412763257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_138
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 172
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc429f30f056243bfb924a28ea01d5
+      internalID: -1949805072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_139
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 20
+        width: 104
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2fc1b7cca0ac4c86f235de559ed92
+      internalID: 2128021663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_140
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1200
+        width: 128
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ecdf5db3e5e043a921fcd8c37f160
+      internalID: -1679792330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon15_142
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1200
+        width: 128
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bea85d903c1fd499f6b678013a242b
+      internalID: 1627683314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dragon15_0: -1685666224
+      Dragon15_1: 401456087
+      Dragon15_10: 989987457
+      Dragon15_100: -218111823
+      Dragon15_101: 1984262265
+      Dragon15_102: 1987654569
+      Dragon15_103: 1390819184
+      Dragon15_104: -676582009
+      Dragon15_105: -1566165158
+      Dragon15_106: -734772399
+      Dragon15_107: -1940708899
+      Dragon15_108: 559962502
+      Dragon15_109: -465288728
+      Dragon15_11: 433740258
+      Dragon15_110: -723173066
+      Dragon15_111: 1069749971
+      Dragon15_112: 321257314
+      Dragon15_113: 2088539088
+      Dragon15_114: -583699117
+      Dragon15_115: -594625562
+      Dragon15_116: -394978890
+      Dragon15_117: 1006575161
+      Dragon15_118: 728005037
+      Dragon15_119: -2007452685
+      Dragon15_12: 365696176
+      Dragon15_120: 961309571
+      Dragon15_121: 138339822
+      Dragon15_122: 902852271
+      Dragon15_123: -892616301
+      Dragon15_124: -1435800079
+      Dragon15_125: -1809169588
+      Dragon15_126: -395520433
+      Dragon15_127: 1692516628
+      Dragon15_128: -679259241
+      Dragon15_129: -519201395
+      Dragon15_13: -1576654352
+      Dragon15_130: 1510706648
+      Dragon15_131: 1074152778
+      Dragon15_132: -1215041611
+      Dragon15_133: -791977224
+      Dragon15_134: 977391747
+      Dragon15_135: 1840297774
+      Dragon15_136: 2147033361
+      Dragon15_137: 412763257
+      Dragon15_138: -1949805072
+      Dragon15_139: 2128021663
+      Dragon15_14: 1405046085
+      Dragon15_140: 1500367672
+      Dragon15_141: 1601177216
+      Dragon15_142: 1545966831
+      Dragon15_143: 1627683314
+      Dragon15_15: 1077644266
+      Dragon15_16: 1752672023
+      Dragon15_17: 1950110729
+      Dragon15_18: -716639316
+      Dragon15_19: -1784432300
+      Dragon15_2: 450153275
+      Dragon15_20: -58445544
+      Dragon15_21: -941726335
+      Dragon15_22: 46653136
+      Dragon15_23: -1354729064
+      Dragon15_24: 1539588560
+      Dragon15_25: 1726936004
+      Dragon15_26: -1055569287
+      Dragon15_27: -1047460650
+      Dragon15_28: -1625086808
+      Dragon15_29: -1463369419
+      Dragon15_3: 1592308043
+      Dragon15_30: -1125900991
+      Dragon15_31: -2069363330
+      Dragon15_32: -1889089512
+      Dragon15_33: -1488757946
+      Dragon15_34: -1070099668
+      Dragon15_35: -2052257323
+      Dragon15_36: 69959274
+      Dragon15_37: -1651312339
+      Dragon15_38: -1762460285
+      Dragon15_39: 1623464019
+      Dragon15_4: 58736717
+      Dragon15_40: -1833657460
+      Dragon15_41: 760717004
+      Dragon15_42: -1347495882
+      Dragon15_43: -1161377932
+      Dragon15_44: 1416770266
+      Dragon15_45: 1286722503
+      Dragon15_46: -1008446088
+      Dragon15_47: -567230962
+      Dragon15_48: 1987133150
+      Dragon15_49: 275581125
+      Dragon15_5: -115617537
+      Dragon15_50: -535499290
+      Dragon15_51: 2128774042
+      Dragon15_52: 2056316455
+      Dragon15_53: 1401484631
+      Dragon15_54: 1502972056
+      Dragon15_55: -176896320
+      Dragon15_56: -1135644658
+      Dragon15_57: -538270005
+      Dragon15_58: 1454374597
+      Dragon15_59: 81291341
+      Dragon15_6: 1652054302
+      Dragon15_60: 258334775
+      Dragon15_61: 579160671
+      Dragon15_62: -2101105343
+      Dragon15_63: 1045292810
+      Dragon15_64: -1724588250
+      Dragon15_65: 170561978
+      Dragon15_66: 2030116619
+      Dragon15_67: 1063597076
+      Dragon15_68: 189249312
+      Dragon15_69: -240718168
+      Dragon15_7: 1789423598
+      Dragon15_70: -1896809849
+      Dragon15_71: -651654513
+      Dragon15_72: 1091899630
+      Dragon15_73: -882318969
+      Dragon15_74: 810628899
+      Dragon15_75: -156141862
+      Dragon15_76: 1412015635
+      Dragon15_77: 1281941076
+      Dragon15_78: 1534041644
+      Dragon15_79: -897917717
+      Dragon15_8: 1600973001
+      Dragon15_80: -1848408375
+      Dragon15_81: -1254146470
+      Dragon15_82: -1027781605
+      Dragon15_83: 252631094
+      Dragon15_84: -657372532
+      Dragon15_85: 1566315468
+      Dragon15_86: 128873681
+      Dragon15_87: -1332906872
+      Dragon15_88: -165495709
+      Dragon15_89: 1229809673
+      Dragon15_9: -1587241169
+      Dragon15_90: -2121900158
+      Dragon15_91: 1542948865
+      Dragon15_92: 1767027938
+      Dragon15_93: 1960566541
+      Dragon15_96: 1872018460
+      Dragon15_97: 1946352644
+      Dragon15_98: -166245830
+      Dragon15_99: -571475019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

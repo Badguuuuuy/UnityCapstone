@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+* !text !filter !merge !diff
+=======
+*.extension filter=lfs diff=lfs merge=lfs -text
+C:/Users/ab669/Documents/GitHub.extension filter=lfs diff=lfs merge=lfs -text
+C:/Users/ab669/Documents/GitHub filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+UpgradeLog.htm filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+Example1.sln filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+UserSettings filter=lfs diff=lfs merge=lfs -text
+gitignore.txt filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 4cb4f88b95ca672cead4d867de5c3f8832c46e1a
