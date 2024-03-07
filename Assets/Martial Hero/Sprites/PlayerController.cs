@@ -34,8 +34,8 @@ public class PlayerController : MonoBehaviour
     private bool canRoll = true;
     private bool isRoll;
     private float rollPower = 1200f;
-    private float rollTime = 0.3f;
-    private float rollCooldown = 1f;
+    private float rollTime = 0.7f;
+    private float rollCooldown = 0.3f;
 
     Animator melee;
 
@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour
         {
             return;
         }
-        Debug.Log(AtkCnt);
+        
     }
     void FixedUpdate()
     {
@@ -73,8 +73,8 @@ public class PlayerController : MonoBehaviour
         Attack1();
         RollAct();
 
-        Debug.Log("점프" + isJumped);
-        Debug.Log("그라운드" + isGrounded);
+        
+        
     }
 
     void Run()
@@ -127,12 +127,12 @@ public class PlayerController : MonoBehaviour
         //Debug.Log(Input.GetAxis("Vertical"));
         if (Input.GetKey(KeyCode.Space) && isGrounded == true)
         {
-            Debug.Log("점프 조건 통과");
+            
             playerRigidBody.velocity = new Vector2(playerRigidBody.velocity.x, JumpForce);
             //playerRigidBody.AddForce(new Vector2(0, JumpForce));
             isJumped = true;
-            Debug.Log(isJumped + "점프");
-            Debug.Log(isGrounded + "그라운드");
+            
+            
             animator.SetBool("Jumped", isJumped);
             animator.SetBool("Grounded", isGrounded);
             isJumped = false;
@@ -148,9 +148,9 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.contacts[0].normal.y > 0.9f)
         {
-            Debug.Log("worked");
+            
             isGrounded = true;
-            Debug.Log(isJumped);
+            
             animator.SetBool("Jumped", isJumped);
             animator.SetBool("Grounded", isGrounded);
 
@@ -168,7 +168,7 @@ public class PlayerController : MonoBehaviour
     {
         isGrounded = false;
         animator.SetBool("Grounded", isGrounded);
-        Debug.Log("not collide");
+        
     }
 
     void anim_fall()
@@ -214,6 +214,10 @@ public class PlayerController : MonoBehaviour
             foreach (Collider2D collider in collider2Ds)
             {
                 Debug.Log(collider);
+                if (collider.tag == "Enemy")
+                {
+                    collider.GetComponent<EnemyController>().TakeDamage();
+                }
             }
 
             Invoke(nameof(RotZero), 0.34f);
@@ -247,12 +251,23 @@ public class PlayerController : MonoBehaviour
         {
             canRoll = false;
             isRoll = true;
-            animator.SetTrigger("Roll");
-            playerRigidBody.velocity = new Vector2(transform.localScale.x * rollPower, 0f);
+            animator.SetBool("Roll", true);
+
+            if (spriteRenderer.flipX)
+            {
+                playerRigidBody.velocity = new Vector2(-transform.localScale.x * rollPower, 0f);
+            }
+            else
+            {
+                playerRigidBody.velocity = new Vector2(transform.localScale.x * rollPower, 0f);
+            }
+
             yield return new WaitForSeconds(rollTime);
             isRoll = false;
+            animator.SetBool("Roll", false);
             yield return new WaitForSeconds(rollCooldown);
             canRoll = true;
+            
         }
     }
 
