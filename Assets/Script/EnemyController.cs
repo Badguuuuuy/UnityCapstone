@@ -26,7 +26,7 @@ public class EnemyController : MonoBehaviour
         if (hp > 0)
         {
             hp--;
-            animator.SetTrigger("TakeHit");
+            animator.SetBool("TakeHit", true);
         }
         else return;
     }
